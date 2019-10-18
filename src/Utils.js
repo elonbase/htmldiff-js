@@ -5,6 +5,8 @@ const wordRegex = /[\w\#@]+/;
 
 const specialCaseWordTags = [
     '<img',
+    '<video',
+    '<audio'
 ];
 
 function isTag(item) {
