@@ -1,3 +1,4 @@
+### *This project fork from [https://github.com/dfoverdx/htmldiff-js](https://github.com/dfoverdx/htmldiff-js) 
 JavaScript port of [HtmlDiff.NET](https://github.com/Rohland/htmldiff.net) which is itself a C# port of the Ruby implementation, [HtmlDiff](https://github.com/myobie/htmldiff/).
 
 Project Description
@@ -36,7 +37,7 @@ Usage
 #### JavaScript ####
 
 ```javascript
-import HtmlDiff from 'htmldiff-js';
+import HtmlDiff from 'diffhtml-js';
 
 
 let oldHtml = document.getById('oldHtml');
